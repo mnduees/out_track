@@ -1,0 +1,255 @@
+[
+  {
+    "Fecha": "2024-01-05",
+    "Monto": 32000,
+    "Moneda": "CLP",
+    "Descripcion": "Compra supermercado",
+    "Categoria": "Alimentación",
+    "MetodoPago": "Tarjeta de débito"
+  },
+  {
+    "Fecha": "2024-01-07",
+    "Monto": 1500,
+    "Moneda": "CLP",
+    "Descripcion": "Café",
+    "Categoria": "Alimentación",
+    "MetodoPago": "Efectivo"
+  },
+  {
+    "Fecha": "2024-01-10",
+    "Monto": 45000,
+    "Moneda": "CLP",
+    "Descripcion": "Pago arriendo",
+    "Categoria": "Vivienda",
+    "MetodoPago": "Transferencia"
+  },
+  {
+    "Fecha": "2024-01-12",
+    "Monto": 12000,
+    "Moneda": "CLP",
+    "Descripcion": "Bencina",
+    "Categoria": "Transporte",
+    "MetodoPago": "Tarjeta de crédito"
+  },
+  {
+    "Fecha": "2024-01-15",
+    "Monto": 8900,
+    "Moneda": "CLP",
+    "Descripcion": "Netflix",
+    "Categoria": "Entretenimiento",
+    "MetodoPago": "Tarjeta de crédito"
+  },
+  {
+    "Fecha": "2024-01-18",
+    "Monto": 6700,
+    "Moneda": "CLP",
+    "Descripcion": "Almuerzo",
+    "Categoria": "Alimentación",
+    "MetodoPago": "Tarjeta de débito"
+  },
+  {
+    "Fecha": "2024-01-20",
+    "Monto": 15000,
+    "Moneda": "CLP",
+    "Descripcion": "Internet hogar",
+    "Categoria": "Servicios",
+    "MetodoPago": "Transferencia"
+  },
+  {
+    "Fecha": "2024-01-22",
+    "Monto": 9800,
+    "Moneda": "CLP",
+    "Descripcion": "Uber",
+    "Categoria": "Transporte",
+    "MetodoPago": "Tarjeta de crédito"
+  },
+  {
+    "Fecha": "2024-01-25",
+    "Monto": 21000,
+    "Moneda": "CLP",
+    "Descripcion": "Ropa",
+    "Categoria": "Compras",
+    "MetodoPago": "Tarjeta de crédito"
+  },
+  {
+    "Fecha": "2024-01-28",
+    "Monto": 5400,
+    "Moneda": "CLP",
+    "Descripcion": "Panadería",
+    "Categoria": "Alimentación",
+    "MetodoPago": "Efectivo"
+  },
+
+  {
+    "Fecha": "2024-02-03",
+    "Monto": 33000,
+    "Moneda": "CLP",
+    "Descripcion": "Supermercado",
+    "Categoria": "Alimentación",
+    "MetodoPago": "Tarjeta de débito"
+  },
+  {
+    "Fecha": "2024-02-06",
+    "Monto": 1500,
+    "Moneda": "CLP",
+    "Descripcion": "Café",
+    "Categoria": "Alimentación",
+    "MetodoPago": "Efectivo"
+  },
+  {
+    "Fecha": "2024-02-10",
+    "Monto": 46000,
+    "Moneda": "CLP",
+    "Descripcion": "Pago arriendo",
+    "Categoria": "Vivienda",
+    "MetodoPago": "Transferencia"
+  },
+  {
+    "Fecha": "2024-02-12",
+    "Monto": 12500,
+    "Moneda": "CLP",
+    "Descripcion": "Bencina",
+    "Categoria": "Transporte",
+    "MetodoPago": "Tarjeta de crédito"
+  },
+  {
+    "Fecha": "2024-02-15",
+    "Monto": 8900,
+    "Moneda": "CLP",
+    "Descripcion": "Spotify",
+    "Categoria": "Entretenimiento",
+    "MetodoPago": "Tarjeta de crédito"
+  },
+  {
+    "Fecha": "2024-02-18",
+    "Monto": 7000,
+    "Moneda": "CLP",
+    "Descripcion": "Almuerzo",
+    "Categoria": "Alimentación",
+    "MetodoPago": "Tarjeta de débito"
+  },
+  {
+    "Fecha": "2024-02-20",
+    "Monto": 15000,
+    "Moneda": "CLP",
+    "Descripcion": "Luz",
+    "Categoria": "Servicios",
+    "MetodoPago": "Transferencia"
+  },
+  {
+    "Fecha": "2024-02-22",
+    "Monto": 10500,
+    "Moneda": "CLP",
+    "Descripcion": "Taxi",
+    "Categoria": "Transporte",
+    "MetodoPago": "Tarjeta de crédito"
+  },
+  {
+    "Fecha": "2024-02-25",
+    "Monto": 18000,
+    "Moneda": "CLP",
+    "Descripcion": "Zapatos",
+    "Categoria": "Compras",
+    "MetodoPago": "Tarjeta de crédito"
+  },
+  {
+    "Fecha": "2024-02-28",
+    "Monto": 6200,
+    "Moneda": "CLP",
+    "Descripcion": "Panadería",
+    "Categoria": "Alimentación",
+    "MetodoPago": "Efectivo"
+  },
+
+  {
+    "Fecha": "2024-03-05",
+    "Monto": 34000,
+    "Moneda": "CLP",
+    "Descripcion": "Supermercado",
+    "Categoria": "Alimentación",
+    "MetodoPago": "Tarjeta de débito"
+  },
+  {
+    "Fecha": "2024-03-10",
+    "Monto": 47000,
+    "Moneda": "CLP",
+    "Descripcion": "Pago arriendo",
+    "Categoria": "Vivienda",
+    "MetodoPago": "Transferencia"
+  },
+  {
+    "Fecha": "2024-03-12",
+    "Monto": 13000,
+    "Moneda": "CLP",
+    "Descripcion": "Bencina",
+    "Categoria": "Transporte",
+    "MetodoPago": "Tarjeta de crédito"
+  },
+  {
+    "Fecha": "2024-03-15",
+    "Monto": 8900,
+    "Moneda": "CLP",
+    "Descripcion": "Netflix",
+    "Categoria": "Entretenimiento",
+    "MetodoPago": "Tarjeta de crédito"
+  },
+  {
+    "Fecha": "2024-03-20",
+    "Monto": 16000,
+    "Moneda": "CLP",
+    "Descripcion": "Agua",
+    "Categoria": "Servicios",
+    "MetodoPago": "Transferencia"
+  },
+
+  {
+    "Fecha": "2024-04-05",
+    "Monto": 35000,
+    "Moneda": "CLP",
+    "Descripcion": "Supermercado",
+    "Categoria": "Alimentación",
+    "MetodoPago": "Tarjeta de débito"
+  },
+  {
+    "Fecha": "2024-04-10",
+    "Monto": 48000,
+    "Moneda": "CLP",
+    "Descripcion": "Pago arriendo",
+    "Categoria": "Vivienda",
+    "MetodoPago": "Transferencia"
+  },
+  {
+    "Fecha": "2024-04-15",
+    "Monto": 9000,
+    "Moneda": "CLP",
+    "Descripcion": "Spotify",
+    "Categoria": "Entretenimiento",
+    "MetodoPago": "Tarjeta de crédito"
+  },
+
+  {
+    "Fecha": "2024-05-05",
+    "Monto": 36000,
+    "Moneda": "CLP",
+    "Descripcion": "Supermercado",
+    "Categoria": "Alimentación",
+    "MetodoPago": "Tarjeta de débito"
+  },
+  {
+    "Fecha": "2024-05-10",
+    "Monto": 49000,
+    "Moneda": "CLP",
+    "Descripcion": "Pago arriendo",
+    "Categoria": "Vivienda",
+    "MetodoPago": "Transferencia"
+  },
+
+  {
+    "Fecha": "2024-06-15",
+    "Monto": 1500,
+    "Moneda": "CLP",
+    "Descripcion": "Pago de servicios",
+    "Categoria": "Servicios",
+    "MetodoPago": "Tarjeta de crédito"
+  }
+]

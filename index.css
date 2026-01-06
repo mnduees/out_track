@@ -1,0 +1,14 @@
+.main-container {
+  margin: 0;
+  padding: 0;
+  color: rgb(36, 137, 24);
+}
+
+.main-title,
+.main-subtitle,
+.main-paragraph {
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
